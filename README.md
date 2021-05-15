@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Pratik Kumar
 
 <!--
 **Pratik-Kumar-621/Pratik-Kumar-621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
