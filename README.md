@@ -1,5 +1,6 @@
 ### Hi there 👋 My name is Pratik Kumar
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Pratik-Kumar-621)](https://github.com/Pratik-Kumar-621/github-readme-stats)
+[![My github stats](https:/komarev.com/ghpvc/?username=Pratik-Kumar-621)](https://github.com/Pratik-Kumar-621/github-readme-stats)
+<!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=Pratik-Kumar-621)](https://github.com/Pratik-Kumar-621/github-readme-stats) -->
 
 <!--
 **Pratik-Kumar-621/Pratik-Kumar-621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
