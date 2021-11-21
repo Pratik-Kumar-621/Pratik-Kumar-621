@@ -1,6 +1,9 @@
 ### Hi there 👋 My name is Pratik Kumar
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pratik-Kumar-621&count_private=true&theme=tokyonight&showicons=true)]()
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratik-Kumar-621&label=Profile%20views&color=0e75b6&style=flat" alt="Pratik-Kumar-621" /> </p>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Kumar-621&langs_count=5&theme=tokyonight)]()
+<br>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pratik-Kumar-621&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
 
 <!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=Pratik-Kumar-621)](https://github.com/Pratik-Kumar-621/github-readme-stats) -->
 <!--
