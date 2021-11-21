@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Pratik Kumar
-[![](https://raw.githubusercontent.com/Pratik-Kumar-621/github-stats-transparent/output/generated/overview.svg)]
-<!-- ![](https://raw.githubusercontent.com/Pratik-Kumar-621/github-stats-transparent/output/generated/languages.svg) -->
+![](https://raw.githubusercontent.com/Pratik-Kumar-621/github-stats-transparent/output/generated/languages.svg)
 <!--
 **Pratik-Kumar-621/Pratik-Kumar-621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
