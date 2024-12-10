@@ -1,7 +1,7 @@
 ### Hi 👋 I am Pratik Kumar
 ![](https://komarev.com/ghpvc/?username=Pratik-Kumar-621)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Kumar-621&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Kumar-621&layout=compact)](https://github.com/pratik-kumar-621)
 
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=Pratik-Kumar-621&layout=compact&hide=html" alt="Pratik-Kumar-621" /> 
