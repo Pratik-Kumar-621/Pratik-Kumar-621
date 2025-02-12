@@ -3,20 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=Pratik-Kumar-621)
 
 
-- 🔭 I’m currently working on **Autotrend.ai**
-
-- 🌱 I’m currently learning **Swift**
-
-- 👯 I’m looking to collaborate on **Web development**
-
-- 📫 How to reach me **pratikkr621@gmail.com**
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratik-Kumar-621&show_icons=true&locale=en" alt="Pratik-Kumar-621" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Kumar-621&layout=compact)](https://github.com/pratik-kumar-621)
 
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=Pratik-Kumar-621&layout=compact&hide=html" alt="Pratik-Kumar-621" /> 
