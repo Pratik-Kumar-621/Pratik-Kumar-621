@@ -2,6 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Pratik-Kumar-621)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Pratik-Kumar-621&langs_count=5&theme=tokyonight)]()
+
+<p><img align="left" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Kumar-621&count_private=true&theme=dark" alt="Pratik-Kumar-621" /></p>
+</p>
+<p><img align="right" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Pratik-Kumar-621&count_private=false&theme=dark" alt="Pratik-Kumar-621" /></p>
+
+
 
 
 <!-- 
