@@ -4,4 +4,19 @@
 <!-- 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-Kumar-621)](https://github.com/Pratik-Kumar-621/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pratik-Kumar-621&theme=tokyonight-duo)](https://git.io/streak-stats)
+<div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+ 
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Pratik-Kumar-621&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Pratik-Kumar-621&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Pratik-Kumar-621&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+
+</div>
+
+<div align="left">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Kumar-621&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
