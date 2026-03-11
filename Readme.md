@@ -15,8 +15,3 @@
   </picture>
 
 </div>
-
-<div align="left">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik-Kumar-621&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
-</div>
